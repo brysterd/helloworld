@@ -1,7 +1,7 @@
 package com.technologia.software;
 
 /**
- * Hello world!
+ * Hello world! It is sample app
  *
  */
 public class App 
